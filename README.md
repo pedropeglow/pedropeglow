@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Peglow</h1>
-<h3 align="center">I'm a technology student looking for an internship</h3>
+<h3 align="center">I'm a technology student</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
