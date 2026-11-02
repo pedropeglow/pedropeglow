@@ -1,59 +1,56 @@
-<h1 align="center">Hi 👋, I'm Pedro Peglow</h1>
+<p align="center">
+  <strong>Português 🇧🇷</strong> · <a href="./README.en.md">English 🇺🇸</a>
+</p>
 
-<h3 align="center">Full Stack Developer · Banking API Integrations</h3>
+<h1 align="center">Olá 👋, sou Pedro Peglow</h1>
+
+<h3 align="center">Desenvolvedor Full Stack</h3>
+
+<p align="center">
+  Microsserviços · APIs bancárias · Integrações governamentais
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-peglow">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pedropeglowm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
 ---
 
-### About me
+### Sobre mim
 
-I'm a Full Stack Developer with a degree in Systems Analysis and Development.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e trabalho como **desenvolvedor Full Stack**.
 
-My day-to-day work focuses on microservices and integrations with Brazilian banks' APIs, using Java, Spring Boot, Node.js, JavaScript, and gRPC.
+Atualmente, desenvolvo microsserviços e integrações com APIs de **bancos brasileiros e órgãos governamentais**. Utilizo **Java, Spring Boot, Node.js e JavaScript**, além de **gRPC** para comunicação entre serviços.
 
-### Languages & tools
+### Tecnologias que utilizo no trabalho
 
 <p>
-  <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://grpc.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="gRPC" title="gRPC" width="48" height="48" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js&theme=dark" alt="Java, Spring Boot, Node.js e JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="gRPC" title="gRPC" width="48" height="48" />
 </p>
 
-| Area | Technologies & experience |
+| Área | Atuação |
 | --- | --- |
-| Backend development | Java, Spring Boot, Node.js, JavaScript |
-| Service communication | gRPC |
-| Architecture | Microservices |
-| Integrations | Brazilian banking APIs |
+| Desenvolvimento | Java, Spring Boot, Node.js e JavaScript |
+| Arquitetura | Microsserviços |
+| Comunicação entre serviços | gRPC |
+| Integrações | APIs de bancos brasileiros e órgãos governamentais |
+
+### Outras tecnologias e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,git,linux,postgres,python,graphql,figma&perline=9&theme=dark" alt="React, HTML, CSS, Git, Linux, PostgreSQL, Python, GraphQL e Figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle" width="48" height="48" />
+</p>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-peglow">LinkedIn</a>
-  ·
-  <a href="mailto:pedropeglowm@gmail.com">pedropeglowm@gmail.com</a>
-</p>
+### Contato
+
+- **LinkedIn:** [Pedro Peglow](https://www.linkedin.com/in/pedro-peglow)
+- **E-mail:** [pedropeglowm@gmail.com](mailto:pedropeglowm@gmail.com)
